@@ -2,3 +2,4 @@ hello man
 hello women
 hello the world
 hello the whole world！
+hello hello!
